@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e707605-faad-42da-ad17-b57ff459d178" name="Live-Test-pi" url="http://www.tiny-projects.com">
+        <fileTransfer rootFolder="/var/www/tiny-projects.com/public_html" accessType="SFTP" host="Test-pi" port="22" sshConfigId="871d5dcb-365a-4084-b7e3-01da7845e5e2" sshConfig="pi@Test-pi:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
