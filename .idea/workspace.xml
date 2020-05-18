@@ -10,7 +10,341 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="init" />
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="MDBootStrap-int">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/License.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/License.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons-pro/cards-extended.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons-pro/cards-extended.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons-pro/chat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons-pro/chat.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons-pro/muli-range.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons-pro/muli-range.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons-pro/steppers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons-pro/steppers.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons-pro/timeline.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons-pro/timeline.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/datatables-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/datatables-select.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/datatables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/datatables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/directives.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/directives.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/flag.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/flag.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/rating.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/rating.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/zmd.hierarchical-display.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/addons/zmd.hierarchical-display.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/mdb-free.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/mdb-free.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/mdb-lite-free.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/mdb-lite-free.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/mdb-lite-pro.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/mdb-lite-pro.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/mdb-pro.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/mdb-pro.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/mdb.lite.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/mdb.lite.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/accordion-extended.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/accordion-extended.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/animations-extended.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/animations-extended.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/charts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/charts.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/lightbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/megamenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/megamenu.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/parallax.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/modules/parallax.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Light.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Medium.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/font/roboto/Roboto-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/flags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/lightbox/default-skin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/lightbox/default-skin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/lightbox/preloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/overlays/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/overlays/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/overlays/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/overlays/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/overlays/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/overlays/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/overlays/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/overlays/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/overlays/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/sample.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/svg/arrow_left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/svg/arrow_right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/img/svg/flags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons-pro/chat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons-pro/chat.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons-pro/multi-range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons-pro/multi-range.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons-pro/simple-charts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons-pro/simple-charts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons-pro/steppers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons-pro/steppers.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons-pro/timeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons-pro/timeline.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/datatables-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/datatables-select.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/datatables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/datatables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/jquery.zmd.hierarchical-display.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/jquery.zmd.hierarchical-display.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/masonry.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/progressBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/progressBar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/rating.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/addons/rating.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/mdb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/mdb.lite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/mdb.lite.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/mdb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/mdb-addons/mdb-lightbox-ui.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/mdb-addons/preloader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/templates/about-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/templates/blog-post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/templates/blog-posts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/templates/contact-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/templates/ecommerce.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/templates/landing-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/templates/login-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/templates/pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/templates/profile-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/dist/templates/signup-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/img/flags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/img/sample.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/_intro-mdb-lite-pro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/_intro-mdb-pro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/free/forms-free.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/free/scrolling-navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/free/treeview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/free/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/cards.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/character-counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/chips.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/collapsible.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/dropdown/dropdown-searchable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/dropdown/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/file-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/material-select/material-select-view-renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/material-select/material-select-view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/material-select/material-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/mdb-autocomplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/picker-date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/picker-time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/preloading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/range-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/sidenav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/smooth-scroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/dist/pro/sticky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/modules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/modules.lite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/free/forms-free.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/free/scrolling-navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/free/treeview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/free/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/cards.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/character-counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/chips.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/collapsible.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/dropdown/dropdown-searchable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/dropdown/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/file-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/material-select/material-select-view-renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/material-select/material-select-view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/material-select/material-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/mdb-autocomplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/picker-date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/picker-time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/preloading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/range-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/sidenav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/smooth-scroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/src/pro/sticky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons-pro/chat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons-pro/multi-range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons-pro/simple-charts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons-pro/steppers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons-pro/timeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons/datatables-select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons/datatables-select2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons/datatables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons/datatables2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons/imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons/jquery.zmd.hierarchical-display.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons/masonry.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/addons/rating.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/free/bs-custom-file-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/free/chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/free/chartjs-datalabels.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/free/enhanced-modals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/free/jquery.easing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/free/velocity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/free/waves.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/jarallax-video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/jarallax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/jquery.sticky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/ofi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/picker-date-time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/picker-date.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/picker-time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/scrollbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/scrolling-navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/toastr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/vector-map-world-mill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/js/vendor/pro/vector-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/_custom-skin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/_custom-styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/_custom-variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons-pro/_cards-extended.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons-pro/_chat.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons-pro/_multi-range.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons-pro/_steppers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons-pro/_timeline.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons-pro/_vector-map.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons-pro/charts/_module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons-pro/charts/charts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons/_datatables-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons/_datatables-select2.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons/_datatables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons/_datatables2.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons/_directives.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons/_flag.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons/_hierarchical-display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/addons/_rating.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/core/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/core/_global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/core/_helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/core/_masks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/core/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/core/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/core/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/core/_waves.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/core/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/core/bootstrap/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/core/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_animations-basic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_carousels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_depreciated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_footers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_loader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_msc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_navbars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_steppers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/_treeview.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/modules/animations-extended/_module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/free/modules/animations-extended/animations-extended.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/mdb-free.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/mdb-lite-free.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/mdb-lite-pro.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/mdb-pro.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_accordion-basic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_animations.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_autocomplete.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_blog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_cards-basic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_carousels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_checkbox.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_chips.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_depreciated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_ecommerce.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_file-input.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_material-select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_msc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_navbars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_new-light-skin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_radio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_range.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_scrollbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_scrollspy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_sidenav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_skins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_social-buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_switch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_tabs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_tooltips.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/modules/accordion-extended/_module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/modules/accordion-extended/accordion-extended.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/modules/lightbox/_module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/modules/lightbox/lightbox.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/modules/megamenu/_module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/modules/megamenu/megamenu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/modules/parallax/_module.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/modules/parallax/parallax.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/picker/_default-date.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/picker/_default-time.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/picker/_default.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/sections/_contacts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/sections/_magazine.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/sections/_pricing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/sections/_social.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/sections/_team.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/sections/_templates.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDB Gulp Pro/MDB-Gulp-Pro_4.18.0/scss/pro/sections/_testimonials.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Useful_Resources.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +394,7 @@
       <updated>1589790569599</updated>
       <workItem from="1589790572708" duration="957000" />
       <workItem from="1589830709104" duration="656000" />
-      <workItem from="1589832196794" duration="2645000" />
+      <workItem from="1589832196794" duration="5863000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1589790766255</created>
@@ -69,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589790766255</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="int">
+      <created>1589842752147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589842752147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,13 +460,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="int" />
+    <option name="LAST_COMMIT_MESSAGE" value="int" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1312" y="358" key="#Deployment" timestamp="1589833895848">
+    <state x="1312" y="358" key="#Deployment" timestamp="1589843899269">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="358" key="#Deployment/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589833895848" />
+    <state x="1312" y="358" key="#Deployment/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589843899269" />
     <state x="1397" y="381" key="#Options" timestamp="1589790983185">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -138,10 +480,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790784256" />
-    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1589833875226">
+    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1589843792009">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589833875226" />
+    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589843792009" />
     <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589790699642" />
     <state x="1568" y="598" key="Github.ShareDialog" timestamp="1589790816557">
       <screen x="0" y="0" width="3440" height="1400" />
@@ -152,6 +494,10 @@
     </state>
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589832237325" />
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790643742" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1589844312779">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589844312779" />
     <state x="1545" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589833944196">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -160,10 +506,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1529" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589833350732" />
-    <state x="1560" y="430" key="ftp.server.browser" timestamp="1589790948024">
+    <state x="1560" y="430" key="ftp.server.browser" timestamp="1589843457046">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1560" y="430" key="ftp.server.browser/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589790948024" />
+    <state x="1560" y="430" key="ftp.server.browser/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589843457046" />
     <state x="1520" y="601" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589833816312">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -172,9 +518,9 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1376" y="330" key="run.anything.popup/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589790848634" />
-    <state x="1516" y="438" key="webDeployment.PermissionsDialog.Tabs" timestamp="1589791216424">
+    <state x="1516" y="438" key="webDeployment.PermissionsDialog.Tabs" timestamp="1589843914488">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1516" y="438" key="webDeployment.PermissionsDialog.Tabs/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589791216424" />
+    <state x="1516" y="438" key="webDeployment.PermissionsDialog.Tabs/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589843914488" />
   </component>
 </project>
