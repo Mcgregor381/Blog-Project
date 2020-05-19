@@ -1,13 +1,13 @@
 <?php
 include "ui_elements/Ui_SideNav.php";
 
-
-generateIndex();
+$html ="";
+$html .= generateIndex();
+echo $html;
 
 
 function generateIndex(){
-    $html ="";
-    $html .= generateIndex();
+
 
     return <<<htmlPage
 <!DOCTYPE html>
