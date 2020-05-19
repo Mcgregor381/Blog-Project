@@ -1,8 +1,10 @@
 <?php
-include "ui_elaments/Ui_SideNav.php";
+include "ui_elements/Ui_SideNav.php";
 
-generateIndex();
+
 generateSideNav();
+generateIndex();
+
 
 function generateIndex(){
 
@@ -51,6 +53,7 @@ function generateIndex(){
   <script type="text/javascript"></script>
 
 </body>
+
 </html>
 
 htmlPage;
