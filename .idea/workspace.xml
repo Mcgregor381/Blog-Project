@@ -10,11 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="typo fix">
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="Fix : typo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/required/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_elaments/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_elements/Post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_elaments/Ui_SideNav.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_elements/Ui_SideNav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <updated>1589790569599</updated>
       <workItem from="1589790572708" duration="957000" />
       <workItem from="1589830709104" duration="656000" />
-      <workItem from="1589832196794" duration="11074000" />
+      <workItem from="1589832196794" duration="11444000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1589790766255</created>
@@ -131,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589872598849</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fix : navigation display">
+      <created>1589872961373</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589872961373</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fix : typo">
+      <created>1589873049357</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589873049357</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +200,9 @@
     <MESSAGE value="init :file for desinging how a post shows" />
     <MESSAGE value="Temp" />
     <MESSAGE value="typo fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="typo fix" />
+    <MESSAGE value="Fix : navigation display" />
+    <MESSAGE value="Fix : typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix : typo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1312" y="358" key="#Deployment" timestamp="1589843899269">
@@ -229,18 +243,18 @@
     </state>
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589870311803" />
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790643742" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1589872661703">
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1589873228901">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589872661703" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589873228901" />
     <state x="1545" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589833944196">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1545" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589833944196" />
-    <state x="1529" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589833350732">
+    <state x="1529" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589873237862">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1529" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589833350732" />
+    <state x="1529" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589873237862" />
     <state x="1560" y="430" key="ftp.server.browser" timestamp="1589843457046">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

@@ -59,4 +59,3 @@ function generateIndex(){
 htmlPage;
 }
 
-echo "testing";
