@@ -10,12 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="MDBootStrap-int">
-      <change afterPath="$PROJECT_DIR$/required/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui_elaments/Post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui_elaments/Ui_SideNav.php" afterDir="false" />
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="typo fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_elaments/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_elements/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_elaments/Ui_SideNav.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_elements/Ui_SideNav.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eveapp" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
@@ -67,7 +66,7 @@
       <updated>1589790569599</updated>
       <workItem from="1589790572708" duration="957000" />
       <workItem from="1589830709104" duration="656000" />
-      <workItem from="1589832196794" duration="10407000" />
+      <workItem from="1589832196794" duration="11074000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1589790766255</created>
@@ -90,7 +89,49 @@
       <option name="project" value="LOCAL" />
       <updated>1589844330057</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Default Navigation added">
+      <created>1589872310170</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589872310170</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Default Header added">
+      <created>1589872327731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589872327731</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init">
+      <created>1589872335502</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589872335502</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init :file for desinging how a post shows">
+      <created>1589872362175</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589872362175</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Temp">
+      <created>1589872386789</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589872386789</updated>
+    </task>
+    <task id="LOCAL-00009" summary="typo fix">
+      <created>1589872598849</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589872598849</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,10 +180,15 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init" />
     <MESSAGE value="int" />
     <MESSAGE value="MDBootStrap-int" />
-    <option name="LAST_COMMIT_MESSAGE" value="MDBootStrap-int" />
+    <MESSAGE value="Default Navigation added" />
+    <MESSAGE value="Default Header added" />
+    <MESSAGE value="init" />
+    <MESSAGE value="init :file for desinging how a post shows" />
+    <MESSAGE value="Temp" />
+    <MESSAGE value="typo fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1312" y="358" key="#Deployment" timestamp="1589843899269">
@@ -165,10 +211,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790784256" />
-    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1589843792009">
+    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1589872774527">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589843792009" />
+    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589872774527" />
     <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589790699642" />
     <state x="1568" y="598" key="Github.ShareDialog" timestamp="1589790816557">
       <screen x="0" y="0" width="3440" height="1400" />
@@ -183,10 +229,10 @@
     </state>
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589870311803" />
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790643742" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1589844659732">
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1589872661703">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589844659732" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589872661703" />
     <state x="1545" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589833944196">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
