@@ -57,6 +57,6 @@ function generateIndex(){
 </html>
 
 htmlPage;
-};
+}
 
 echo "testing";
