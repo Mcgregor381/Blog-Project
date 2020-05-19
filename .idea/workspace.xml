@@ -11,8 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="Fix : typo">
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_elements/Ui_SideNav.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_elements/Ui_SideNav.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +44,8 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eveapp" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bubble" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -64,7 +68,7 @@
       <updated>1589790569599</updated>
       <workItem from="1589790572708" duration="957000" />
       <workItem from="1589830709104" duration="656000" />
-      <workItem from="1589832196794" duration="11444000" />
+      <workItem from="1589832196794" duration="16593000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1589790766255</created>
@@ -143,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589873049357</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fix : typo">
+      <created>1589873292818</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589873292818</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,18 +216,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Fix : typo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1312" y="358" key="#Deployment" timestamp="1589843899269">
+    <state x="1312" y="358" key="#Deployment" timestamp="1589875546817">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="358" key="#Deployment/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589843899269" />
+    <state x="1312" y="358" key="#Deployment/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589875546817" />
     <state x="1605" y="563" key="#Notifications" timestamp="1589844650261">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1605" y="563" key="#Notifications/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589844650261" />
-    <state x="1397" y="381" key="#Options" timestamp="1589790983185">
+    <state x="1397" y="381" key="#Options" timestamp="1589874565254">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1397" y="381" key="#Options/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589790983185" />
+    <state x="1397" y="381" key="#Options/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589874565254" />
     <state x="1296" y="345" key="#SSH_Configurations" timestamp="1589790927686">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -225,10 +236,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790784256" />
-    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1589872774527">
+    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1589884146969">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589872774527" />
+    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589884146969" />
     <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589790699642" />
     <state x="1568" y="598" key="Github.ShareDialog" timestamp="1589790816557">
       <screen x="0" y="0" width="3440" height="1400" />
@@ -243,10 +254,14 @@
     </state>
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589870311803" />
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790643742" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1589873228901">
+    <state x="1221" y="345" key="SettingsEditor" timestamp="1589875017433">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589873228901" />
+    <state x="1221" y="345" key="SettingsEditor/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589875017433" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1589873317606">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589873317606" />
     <state x="1545" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589833944196">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -255,10 +270,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1529" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589873237862" />
-    <state x="1560" y="430" key="ftp.server.browser" timestamp="1589843457046">
+    <state x="1560" y="430" key="ftp.server.browser" timestamp="1589873570474">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1560" y="430" key="ftp.server.browser/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589843457046" />
+    <state x="1560" y="430" key="ftp.server.browser/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589873570474" />
     <state x="1520" y="601" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589833816312">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -267,9 +282,9 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1376" y="330" key="run.anything.popup/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589790848634" />
-    <state x="1516" y="438" key="webDeployment.PermissionsDialog.Tabs" timestamp="1589843914488">
+    <state x="1516" y="438" key="webDeployment.PermissionsDialog.Tabs" timestamp="1589874489820">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1516" y="438" key="webDeployment.PermissionsDialog.Tabs/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589843914488" />
+    <state x="1516" y="438" key="webDeployment.PermissionsDialog.Tabs/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589874489820" />
   </component>
 </project>

@@ -2,7 +2,12 @@
 
 function generateSideNav()
 {
+
+    $html ="";
+    $html .= generateSideNav();
+
 return <<<htmlPage
+
     <body>
       <!-- SideNav pushed content -->
       <a href="#" data-activates="slide-out" class="btn-floating blue-gradient button-collapse btn-lg"><i

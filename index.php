@@ -3,11 +3,13 @@ include "ui_elements/Ui_SideNav.php";
 
 
 generateSideNav();
-generateIndex();
 
 
 function generateIndex(){
 
+    $html ="";
+    //todo page swapping
+    $html .= generateIndex();
     return <<<htmlPage
 <!DOCTYPE html>
 <html lang="en">
