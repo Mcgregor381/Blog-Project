@@ -1,10 +1,10 @@
 <?php
-$html .= generateIndex();
+include "ui_elaments/Ui_SideNav.php";
+
+generateIndex();
+generateSideNav();
 
 function generateIndex(){
-    $html ="";
-    //todo page swapping
-
 
     return <<<htmlPage
 <!DOCTYPE html>
@@ -54,4 +54,6 @@ function generateIndex(){
 </html>
 
 htmlPage;
-}
+};
+
+echo "testing";
