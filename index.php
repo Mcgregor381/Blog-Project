@@ -1,5 +1,5 @@
 <?php
-include "ui_elements/Ui_SideNav.php";
+include "ui_elements/element_list.php";
 
 $html ="";
 $html .= generateIndex();
