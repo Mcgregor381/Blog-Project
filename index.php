@@ -2,5 +2,11 @@
 include "ui_elements/element_list.php";
 
 
-generateHeader();
-generateSideNav();
+
+$header ="";
+$header .= generateHeader();
+echo"$header";
+
+$html ="";
+$html .= generateSideNav();
+echo"$html";
