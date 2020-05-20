@@ -2,8 +2,8 @@
 require 'required/fileConfig.php';
 require 'ui_elements/ui_SideNav.php';
 
-$html ='';
-$html .= generateSideNav();
+
+$html .= generate_SideNav();
 echo $html;
 
 echo "hello world";

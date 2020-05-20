@@ -1,7 +1,7 @@
 <?php
 require "../required/header.php";
 
-function generateSideNav()
+function generate_SideNav()
 {
     return <<<htmlPage
 
