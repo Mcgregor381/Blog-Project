@@ -1,5 +1,5 @@
 <?php
-require
+require "../required/header.php";
 
 generateSideNav();
 
