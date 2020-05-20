@@ -3,7 +3,9 @@ require "../required/header.php";
 
 function generateSideNav()
 {
-return <<<htmlPage
+    return <<<htmlPage
+
+    
     <html>
     <body>
           <!-- SideNav pushed content -->
