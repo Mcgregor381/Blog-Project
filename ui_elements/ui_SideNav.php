@@ -1,14 +1,10 @@
 <?php
 require "../required/header.php";
 
-generateSideNav();
-
 function generateSideNav()
 {
 
-    $html ="";
-    $html .= generateSideNav();
-    echo "$html";
+
 
 return <<<htmlPage
 

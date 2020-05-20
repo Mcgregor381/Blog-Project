@@ -1,7 +1,8 @@
 <?php
+require
 
-$html .= generateSideNav();
-echo $html;
+echo "
 
-echo "hello wold";
+
+";
 

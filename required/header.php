@@ -1,11 +1,7 @@
 <?php
-require_once "required/header.php";
 
-function generateHeader()
-{
-echo "header call";
 
-return <<<htmlPage
+echo '
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,6 +22,5 @@ return <<<htmlPage
   <!-- Your custom styles (optional) -->
   <link rel="stylesheet" href="../css/style.css">
 </head>
-
-htmlPage;
-}
+</html>
+';
