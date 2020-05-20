@@ -1,5 +1,7 @@
 <?php
 
+generateSideNav();
+
 function generateSideNav()
 {
 
