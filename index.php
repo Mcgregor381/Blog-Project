@@ -6,7 +6,7 @@ echo "hello wold";
 $header ="";
 $header .= generateHeader();
 echo"$header";
-
+generateHeader();
 $html ="";
 $html .= generateSideNav();
 echo"$html";
