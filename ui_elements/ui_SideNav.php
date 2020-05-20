@@ -109,9 +109,7 @@ return <<<htmlPage
         <div class="sidenav-bg rgba-blue-strong"></div>
       </div>
       <!--/. Sidebar navigation -->
-      <div id="content" class="sunny-morning-gradient color-block content">
-    
-    
+      <div id="content" class="sunny-morning-gradient color-block content">  
       </div>
     </body>
     
