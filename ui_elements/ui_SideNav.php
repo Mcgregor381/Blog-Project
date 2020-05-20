@@ -5,6 +5,7 @@ function generateSideNav()
 
     $html ="";
     $html .= generateSideNav();
+    echo "$html";
 
 return <<<htmlPage
 
