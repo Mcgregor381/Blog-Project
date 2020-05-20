@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="set-up : improveing file sorting and elament structure">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1c4axzwiwNGSn9wbcQFVDq0HnmP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,7 +65,7 @@
       <workItem from="1589790572708" duration="957000" />
       <workItem from="1589830709104" duration="656000" />
       <workItem from="1589832196794" duration="19419000" />
-      <workItem from="1589970536756" duration="8037000" />
+      <workItem from="1589970536756" duration="8170000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1589790766255</created>
@@ -201,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589982599081</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="set-up : improveing file sorting and elament structure">
+      <created>1589982783452</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1589982783452</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,10 +316,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1221" y="345" key="SettingsEditor/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589875017433" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1589982603940">
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1589982881373">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589982603940" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589982881373" />
     <state x="1545" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589833944196">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
