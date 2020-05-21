@@ -3,7 +3,7 @@ require 'required/header.php';
 require 'required/scripts.php';
 require 'ui_elements/ui_SideNav.php';
 
-
+$html='';
 $html .= generate_SideNav();
 echo $html;
 

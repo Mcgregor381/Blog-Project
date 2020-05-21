@@ -10,8 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="removed text echo">
-      <change beforePath="$PROJECT_DIR$/required/scripts.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/scripts.php" afterDir="false" />
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="NavBar fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_elements/ui_SideNav.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_elements/ui_SideNav.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +68,7 @@
       <workItem from="1589830709104" duration="656000" />
       <workItem from="1589832196794" duration="19419000" />
       <workItem from="1589970536756" duration="9512000" />
-      <workItem from="1590055282949" duration="4509000" />
-    </task>
-    <task id="LOCAL-00004" summary="Default Navigation added">
-      <created>1589872310170</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1589872310170</updated>
+      <workItem from="1590055282949" duration="5555000" />
     </task>
     <task id="LOCAL-00005" summary="Default Header added">
       <created>1589872327731</created>
@@ -411,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590067078103</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="NavBar fix">
+      <created>1590067477736</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1590067477736</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,7 +481,8 @@
     <MESSAGE value="?" />
     <MESSAGE value="testing" />
     <MESSAGE value="removed text echo" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed text echo" />
+    <MESSAGE value="NavBar fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="NavBar fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1312" y="358" key="#Deployment" timestamp="1590063784286">
@@ -532,10 +535,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1221" y="345" key="SettingsEditor/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590063533432" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590067052223">
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590067505494">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590067052223" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590067505494" />
     <state x="1545" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589833944196">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

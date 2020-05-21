@@ -4,7 +4,6 @@ require 'required/scripts.php';
 
 function generate_SideNav()
 {
-
     return <<<htmlPage
 
     <body>
