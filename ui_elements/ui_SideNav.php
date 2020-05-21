@@ -3,9 +3,7 @@ require "./required/fileConfig.php";
 
 function generate_SideNav()
 {
-    $windowWidth =1920;
-    $btnCollapse =0;
-    $content =0;
+
     return <<<htmlPage
 
 
