@@ -115,7 +115,7 @@ function generate_SideNav()
         
         <script>
         
-                $(document).ready(function() {
+            $(document).ready(function() {
             let isOpen = false;
             let $windowWidth = $( window ).width();
             const $btnCollapse = $(".button-collapse");
