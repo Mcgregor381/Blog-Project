@@ -138,7 +138,7 @@ function generate_SideNav()
             $( window ).resize(function() {
             
             $windowWidth = $( window ).width();
-            if($windowWidth > 1440) {
+            if($windowWidth => 1440) {
             $content.css('padding-left', '250px');
             if(isOpen) {
             $btnCollapse.css('left', '0');
