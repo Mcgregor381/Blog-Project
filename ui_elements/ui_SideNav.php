@@ -5,7 +5,7 @@ require 'required/scripts.php';
 function generate_SideNav(){
     return <<<htmlPage
 
-    <body>
+
       <!-- SideNav slide-out button -->
 <a href="#" data-activates="slide-out" class="btn btn-primary p-3 button-collapse"><i
     class="fas fa-bars"></i></a>
@@ -101,7 +101,6 @@ function generate_SideNav(){
   <div class="sidenav-bg rgba-blue-strong"></div>
 </div>
 <!--/. Sidebar navigation -->
-    </body>
 
         
         
