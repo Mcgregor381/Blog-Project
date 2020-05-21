@@ -24,4 +24,3 @@ echo '
 </head>
  
 ';
-echo 'header called';

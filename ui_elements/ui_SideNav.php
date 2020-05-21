@@ -2,8 +2,7 @@
 require 'required/header.php';
 require 'required/scripts.php';
 
-function generate_SideNav()
-{
+function generate_SideNav(){
     return <<<htmlPage
 
     <body>

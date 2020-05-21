@@ -18,6 +18,3 @@ echo'
     
     </body>
 ';
-
-
-echo "Scripts called";
