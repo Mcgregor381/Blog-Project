@@ -11,6 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="NavBar fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ui_elements/ui_SideNav.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_elements/ui_SideNav.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,14 +68,7 @@
       <workItem from="1589830709104" duration="656000" />
       <workItem from="1589832196794" duration="19419000" />
       <workItem from="1589970536756" duration="9512000" />
-      <workItem from="1590055282949" duration="5846000" />
-    </task>
-    <task id="LOCAL-00007" summary="init :file for desinging how a post shows">
-      <created>1589872362175</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1589872362175</updated>
+      <workItem from="1590055282949" duration="5929000" />
     </task>
     <task id="LOCAL-00008" summary="Temp">
       <created>1589872386789</created>
@@ -411,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590090495268</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="NavBar fix">
+      <created>1590090719080</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1590090719080</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -533,10 +535,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1221" y="345" key="SettingsEditor/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590063533432" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590090649179">
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590090737341">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590090649179" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590090737341" />
     <state x="1545" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589833944196">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

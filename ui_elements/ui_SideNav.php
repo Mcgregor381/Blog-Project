@@ -106,12 +106,16 @@ function generate_SideNav(){
         
         
         <script>
-    $(document).ready(function() {
-        // SideNav Button Initialization
-        $(".button-collapse").sideNav({
-        slim: true,
-        });
-});
+            $(document).ready(function() {
+              // SideNav Button Initialization
+              $(".button-collapse").sideNav({
+                slim: true
+              });
+              // SideNav Scrollbar Initialization
+              let sideNavScrollbar = document.querySelector('.custom-scrollbar');
+              let ps = new PerfectScrollbar(sideNavScrollbar);
+            })
+
         </script>
     
 
