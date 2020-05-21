@@ -20,7 +20,7 @@
       <paths name="Test">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/var/www/tiny-projects.com/public_html/Blog-Project" local="$PROJECT_DIR$" web="http://www.tiny-projects.com/Blog-Project/" />
           </mappings>
         </serverdata>
       </paths>
