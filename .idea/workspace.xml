@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="testing">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <workItem from="1589830709104" duration="656000" />
       <workItem from="1589832196794" duration="19419000" />
       <workItem from="1589970536756" duration="9512000" />
-      <workItem from="1590055282949" duration="1414000" />
+      <workItem from="1590055282949" duration="1628000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1589790766255</created>
@@ -384,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590056012781</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="testing">
+      <created>1590063388873</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1590063388873</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,6 +440,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../Project" />
+    </ignored-roots>
     <MESSAGE value="int" />
     <MESSAGE value="MDBootStrap-int" />
     <MESSAGE value="Default Navigation added" />
@@ -451,10 +461,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="testing" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1312" y="358" key="#Deployment" timestamp="1589875546817">
+    <state x="1312" y="358" key="#Deployment" timestamp="1590063598132">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="358" key="#Deployment/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589875546817" />
+    <state x="1312" y="358" key="#Deployment/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590063598132" />
     <state x="1605" y="563" key="#Notifications" timestamp="1589844650261">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -493,10 +503,10 @@
     </state>
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589985608188" />
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790643742" />
-    <state x="1221" y="345" key="SettingsEditor" timestamp="1589875017433">
+    <state x="1221" y="345" key="SettingsEditor" timestamp="1590063533432">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1221" y="345" key="SettingsEditor/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589875017433" />
+    <state x="1221" y="345" key="SettingsEditor/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590063533432" />
     <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590056019319">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -509,10 +519,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1529" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589913103918" />
-    <state x="1560" y="430" key="ftp.server.browser" timestamp="1589873570474">
+    <state x="1560" y="430" key="ftp.server.browser" timestamp="1590063571608">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1560" y="430" key="ftp.server.browser/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589873570474" />
+    <state x="1560" y="430" key="ftp.server.browser/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590063571608" />
     <state x="1520" y="601" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1589982711419">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

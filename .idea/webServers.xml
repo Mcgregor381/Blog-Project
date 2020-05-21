@@ -16,8 +16,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="b552e2e2-fd02-4ce9-8184-f278ff9e1e7e" name="Test" url="http://localhost">
-        <fileTransfer host="192.168.1.95" port="21">
+      <webServer id="b552e2e2-fd02-4ce9-8184-f278ff9e1e7e" name="Test" url="http://www.tiny-projects.com/Blog-Project/">
+        <fileTransfer rootFolder="/var/www/tiny-projects.com/public_html/Blog-Project" host="192.168.1.95" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
