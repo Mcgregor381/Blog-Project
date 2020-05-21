@@ -1,11 +1,11 @@
 <?php
-require "./required/fileConfig.php";
+require 'required/header.php';
+require 'required/scripts.php';
 
 function generate_SideNav()
 {
 
     return <<<htmlPage
-
 
     <body>
           <!-- SideNav pushed content -->
@@ -110,7 +110,20 @@ function generate_SideNav()
           <!--/. Sidebar navigation -->
           <div id="content" class="sunny-morning-gradient color-block content">  
           </div>
-        </body>
+
+    
+      <!-- jQuery -->
+       <script type="text/javascript" src="../js/jquery.min.js"></script>
+      <!-- Bootstrap tooltips -->
+      <script type="text/javascript" src="../js/popper.min.js"></script>
+      <!-- Bootstrap core JavaScript -->
+      <script type="text/javascript" src="../js/bootstrap.min.js"></script>
+      <!-- MDB core JavaScript -->
+      <script type="text/javascript" src="../js/mdb.min.js"></script>
+      <!-- Your custom scripts (optional) --> 
+      <script type="text/javascript"></script>
+    
+    </body>
 
         
         
