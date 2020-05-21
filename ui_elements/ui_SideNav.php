@@ -5,8 +5,7 @@ function generate_SideNav()
 {
     return <<<htmlPage
 
-    
-    <html>
+
     <body>
           <!-- SideNav pushed content -->
           <a href="#" data-activates="slide-out" class="btn-floating blue-gradient button-collapse btn-lg"><i
@@ -111,7 +110,7 @@ function generate_SideNav()
           <div id="content" class="sunny-morning-gradient color-block content">  
           </div>
         </body>
-    </html>
+
         
         
         <script>
