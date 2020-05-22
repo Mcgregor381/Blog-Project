@@ -17,7 +17,7 @@ function generate_SideNav(){
     <li>
       <div class="logo-wrapper sn-ad-avatar-wrapper">
         <a href="#"><img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg"
-            class="rounded-circle"><span>Anna
+            class="rounded-circle" alt="default img"><span>Anna
             Deynah</span></a>
       </div>
     </li>
