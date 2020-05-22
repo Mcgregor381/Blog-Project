@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="Test" stopOnFirstError="true" traceLevel="BRIEF">
+  <component name="PublishConfigData" stopOnFirstError="true" traceLevel="BRIEF">
     <serverData>
-      <paths name="Live-Pi-test">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="Live-Test-pi">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$/../Project" web="/" />
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="Local-Test">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="Test">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/var/www/tiny-projects.com/public_html/Blog-Project" local="$PROJECT_DIR$" web="http://www.tiny-projects.com/Blog-Project/" />
+            <mapping deploy="andrewnas:8802/" local="$PROJECT_DIR$" web="http://andrewnas:8802/" />
+            <mapping deploy="http://andrewnas:8801" local="$PROJECT_DIR$/../eveapp" web="http://andrewnas:8801" />
           </mappings>
         </serverdata>
       </paths>
