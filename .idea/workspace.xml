@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="restart: complete redesign of init interface with place holder post now desinged" />
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="restart: complete redesign of init interface with place-holder post now designed">
+      <change afterPath="$PROJECT_DIR$/ui_Elements/ui_BlogPost.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bubble" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
@@ -78,14 +81,7 @@
       <workItem from="1589832196794" duration="19419000" />
       <workItem from="1589970536756" duration="9512000" />
       <workItem from="1590055282949" duration="26352000" />
-      <workItem from="1590402102460" duration="6463000" />
-    </task>
-    <task id="LOCAL-00015" summary="Fix : typo">
-      <created>1589913137925</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1589913137925</updated>
+      <workItem from="1590402102460" duration="8619000" />
     </task>
     <task id="LOCAL-00016" summary="Fix : typo">
       <created>1589913307361</created>
@@ -423,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590439163331</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="restart: complete redesign of init interface with place-holder post now designed">
+      <created>1590439216879</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1590439216879</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,7 +498,8 @@
     <MESSAGE value="NavBar fixed" />
     <MESSAGE value="XML update" />
     <MESSAGE value="restart: complete redesign of init interface with place holder post now desinged" />
-    <option name="LAST_COMMIT_MESSAGE" value="restart: complete redesign of init interface with place holder post now desinged" />
+    <MESSAGE value="restart: complete redesign of init interface with place-holder post now designed" />
+    <option name="LAST_COMMIT_MESSAGE" value="restart: complete redesign of init interface with place-holder post now designed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1312" y="358" key="#Deployment" timestamp="1590403061994">
@@ -526,10 +530,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="92" y="92" width="3256" height="1216" key="DirDiffDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590264584961" />
-    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1590312983911">
+    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1590444267998">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590312983911" />
+    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590444267998" />
     <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589790699642" />
     <state x="1568" y="598" key="Github.ShareDialog" timestamp="1589790816557">
       <screen x="0" y="0" width="3440" height="1400" />
@@ -539,19 +543,19 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1499" y="423" key="NewPhpClassDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589868946132" />
-    <state x="1554" y="623" key="NewPhpFileDialog" timestamp="1589985608188">
+    <state x="1554" y="623" key="NewPhpFileDialog" timestamp="1590439250130">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589985608188" />
+    <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590439250130" />
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790643742" />
     <state x="1221" y="345" key="SettingsEditor" timestamp="1590063533432">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1221" y="345" key="SettingsEditor/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590063533432" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590268738112">
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590439220932">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590268738112" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590439220932" />
     <state x="1545" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1590439189911">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
