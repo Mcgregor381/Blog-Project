@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="restart: complete redesign of init interface with place-holder post now designed">
-      <change afterPath="$PROJECT_DIR$/ui_Elements/ui_BlogPost.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="restart: complete redesign of init interface with place-holder post now designed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,21 +78,7 @@
       <workItem from="1589832196794" duration="19419000" />
       <workItem from="1589970536756" duration="9512000" />
       <workItem from="1590055282949" duration="26352000" />
-      <workItem from="1590402102460" duration="8619000" />
-    </task>
-    <task id="LOCAL-00016" summary="Fix : typo">
-      <created>1589913307361</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1589913307362</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Fix : typo">
-      <created>1589914145350</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1589914145350</updated>
+      <workItem from="1590402102460" duration="9092000" />
     </task>
     <task id="LOCAL-00018" summary="set-up : improveing file sorting and elament structure">
       <created>1589980019871</created>
@@ -426,7 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590439216879</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="restart: complete redesign of init interface with place-holder post now designed">
+      <created>1590444374777</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1590444374778</updated>
+    </task>
+    <task id="LOCAL-00066" summary="restart: complete redesign of init interface with place-holder post now designed">
+      <created>1590444391699</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1590444391699</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
