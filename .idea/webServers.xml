@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b2271aea-9cd6-4024-91de-a25beb817632" name="Local-Test-Blog" url="http://andrewnas:8802/">
+        <fileTransfer rootFolder="/web/" host="192.168.1.252" port="21" />
+      </webServer>
+    </option>
+  </component>
+</project>
