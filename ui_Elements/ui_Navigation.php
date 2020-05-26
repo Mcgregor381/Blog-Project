@@ -7,6 +7,15 @@ function generateNavigation(){
     //todo page swapping
     $html .= generateSingleImageBlogPost();
 
+    $loginModal ="";
+    //todo page swapping
+    $loginModal .= generate_LoginModal();
+
+
+    $placeHolder ="";
+    //todo page swapping
+    $placeHolder .= generatePlaceHolder();
+
     return <<<htmlPage
     <html lang="en">
     
@@ -51,11 +60,14 @@ function generateNavigation(){
                             <span class="clearfix d-none d-sm-inline-block">Account</span>
                         </a>
                         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
-                            <a class="dropdown-item" href="#">Something else here</a>
+                            <a class="dropdown-item" href="#">Login</a>
                         </div>
                     </li>
+                    <!--Todo implement login  -->
+                    <!--Todo implement if users log in change to log out button  -->
+                            <div class="text-center">
+                              <a href="" class="btn btn-default btn-rounded mb-4" data-toggle="modal" data-target="#modalLoginForm">Login</a>
+                            </div>
                 </ul>
         
             </nav>
@@ -87,12 +99,12 @@ function generateNavigation(){
                     <li>
                         <ul class="collapsible collapsible-accordion">
                             <li><a class="collapsible-header waves-effect arrow-r"><i class="fa fa-chevron-right"></i>
-                                Personal<i class="fa fa-angle-down rotate-icon"></i></a>
+                                live Projects<i class="fa fa-angle-down rotate-icon"></i></a>
                                 <div class="collapsible-body">
                                     <ul>
-                                        <li><a href="#" class="waves-effect">Character Sheet</a>
+                                        <li><a href="#" class="waves-effect">Blog</a>
                                         </li>
-                                        <li><a href="#" class="waves-effect">other 1</a>
+                                        <li><a href="#" class="waves-effect">eve-app</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -111,13 +123,13 @@ function generateNavigation(){
                                     </ul>
                                 </di>
                             </li>
-                            <li><a class="collapsible-header waves-effect arrow-r"><i class="fa fa-hand-pointer-o"></i>
-                                Finance<i class="fa fa-angle-down rotate-icon"></i></a>
+                            <li><a class="collapsible-header waves-effect arrow-r">
+                                Web Projects<i class="fa fa-angle-down rotate-icon"></i></a>
                                 <div class="collapsible-body">
                                     <ul>
-                                        <li><a href="#" class="waves-effect">Wallet</a>
+                                        <li><a href="#" class="waves-effect">blog</a>
                                         </li>
-                                        <li><a href="#" class="waves-effect">For authors</a>
+                                        <li><a href="#" class="waves-effect">Eve Online Api Proect</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -156,12 +168,15 @@ function generateNavigation(){
         </header>
         <!--Main Navigation-->
             <main>
-                <div class="container-fluid justify-content-center">
-                    <!--todo page swaping-->
-                    $html
-
+                <div class="container-fluid justify-content-center" style="padding-top: 10%;padding-bottom: 10%"> 
+                    
+                    $placeHolder
+                    
+                    $placeHolder
                 </div>
             </main>
+            
+            $loginModal
         </body>
 </html>
 htmlPage;

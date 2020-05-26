@@ -1,6 +1,6 @@
 <?php
 
-//require "./ui_Elements/finance/wallet/walletContent/content_tabs.php";
+
 function generateBlogPost()
 {
     $x= rand(0,5);

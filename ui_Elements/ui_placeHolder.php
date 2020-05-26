@@ -1,7 +1,7 @@
 <?php
-//require "./ui_Elements/finance/wallet/walletContent/content_tabs.php";
 
 function generatePlaceHolder(){
+
     return <<<htmlPage
 <body>
     <!--Post Card-->
