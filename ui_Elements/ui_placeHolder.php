@@ -5,7 +5,7 @@ function generatePlaceHolder(){
     return <<<htmlPage
 <body>
     <!--Post Card-->
-    <div class="card ">
+    <div class="card" style="padding: 25px">
         <!--Post Header-->
         <div class="card-header">
         
@@ -18,7 +18,7 @@ function generatePlaceHolder(){
             <div class="row justify-content-lg-between">
                 <!--img-col-->
                 <div class="d-flex col-md">
-                    <img src="../img/Placeholeder/PNG/PlaceHolder-v2-square.png" class="img-fluid" alt="PlaceHolder">
+                    <img src="../img/Placeholeder/PNG/PlaceHolder-v2-square.png" class="img-fluid" alt="PlaceHolder" style="rotation-point: center">
                 </div>
                 <!--Text-col-->
                 <div class="d-flex col-md">
