@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" stopOnFirstError="true" traceLevel="BRIEF" showNewOnSourceInSync="false">
+  <component name="PublishConfigData" stopOnFirstError="true" traceLevel="BRIEF" uploadOnCheckin="b2271aea-9cd6-4024-91de-a25beb817632" showNewOnSourceInSync="false">
     <serverData>
       <paths name="Local-Test">
         <serverdata>
@@ -19,5 +19,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="Local-Test-Blog" />
   </component>
 </project>
