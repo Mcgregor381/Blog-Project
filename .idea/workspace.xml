@@ -10,50 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="Update added login modal &amp; post template">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/PNG/PlaceHolder-v1-largeBanner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/PNG/PlaceHolder-v1-medBanner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/PNG/PlaceHolder-v1-smallBanner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/PNG/PlaceHolder-v1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/PNG/PlaceHolder-v2-square.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/SVG/PlaceHolder-v1-largeBanner.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/SVG/PlaceHolder-v1-largeBanner_1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/SVG/PlaceHolder-v1-medBanner.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/SVG/PlaceHolder-v1-medBanner_1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/SVG/PlaceHolder-v1-smallBanner.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/SVG/PlaceHolder-v1-smallBanner_1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/SVG/PlaceHolder-v1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/SVG/PlaceHolder-v1_1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/SVG/PlaceHolder-v2-square.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/Placeholeder/SVG/PlaceHolder-v2-square_1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/lightbox/default-skin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/lightbox/default-skin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/lightbox/preloader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/mdb-favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/overlays/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/overlays/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/overlays/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/overlays/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/overlays/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/overlays/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/overlays/07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/overlays/08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/overlays/09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/svg/arrow_left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/svg/arrow_right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/img/tempLeftBanner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/ui/navagtion_options/Navigation_duelNav.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/ui/placeholder/cms_placeholder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/required/database_config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/required/database_required/db_config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/required/database_required/db_connect.php" afterDir="false" />
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="Update: added login modal &amp; post template &#10;started: DB intargration connection scussesflul.">
+      <change afterPath="$PROJECT_DIR$/required/database_required/PepperedPasswords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/required/database_required/db_tools.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/modal_Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/inner_ui_Elaments/modal_Login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_ElementList.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_ElementList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_Elements/inner_ui_Elaments/modal_Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/inner_ui_Elaments/modal_Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ui_Elements/ui_placeHolder.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_placeHolder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +56,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bubble" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
@@ -128,14 +90,8 @@
       <workItem from="1589970536756" duration="9512000" />
       <workItem from="1590055282949" duration="26352000" />
       <workItem from="1590402102460" duration="21001000" />
-      <workItem from="1590515482065" duration="17017000" />
-    </task>
-    <task id="LOCAL-00021" summary="test : echo">
-      <created>1589982929589</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1589982929589</updated>
+      <workItem from="1590515482065" duration="18075000" />
+      <workItem from="1590668137141" duration="1815000" />
     </task>
     <task id="LOCAL-00022" summary="test : echo">
       <created>1589982998661</created>
@@ -473,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590492612864</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Update: added login modal &amp; post template &#10;started: DB intargration connection scussesflul.">
+      <created>1590619154117</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1590619154118</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +510,8 @@
     <MESSAGE value="restart: complete redesign of init interface with place holder post now desinged" />
     <MESSAGE value="restart: complete redesign of init interface with place-holder post now designed" />
     <MESSAGE value="Update added login modal &amp; post template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update added login modal &amp; post template" />
+    <MESSAGE value="Update: added login modal &amp; post template &#10;started: DB intargration connection scussesflul." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: added login modal &amp; post template &#10;started: DB intargration connection scussesflul." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1312" y="358" key="#Deployment" timestamp="1590403061994">
@@ -579,10 +543,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="92" y="92" width="3256" height="1216" key="DirDiffDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590264584961" />
-    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1590444267998">
+    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1590672528459">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590444267998" />
+    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590672528459" />
     <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589790699642" />
     <state x="1568" y="598" key="Github.ShareDialog" timestamp="1589790816557">
       <screen x="0" y="0" width="3440" height="1400" />
@@ -592,23 +556,23 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="196" height="457" key="HiddenNamespacesPopup/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590615426146" />
-    <state x="1499" y="423" key="NewPhpClassDialog" timestamp="1589868946132">
+    <state x="1499" y="423" key="NewPhpClassDialog" timestamp="1590674512668">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1499" y="423" key="NewPhpClassDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589868946132" />
-    <state x="1554" y="623" key="NewPhpFileDialog" timestamp="1590585418489">
+    <state x="1499" y="423" key="NewPhpClassDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590674512668" />
+    <state x="1554" y="623" key="NewPhpFileDialog" timestamp="1590672679817">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590585418489" />
+    <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590672679817" />
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790643742" />
     <state x="1221" y="345" key="SettingsEditor" timestamp="1590063533432">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1221" y="345" key="SettingsEditor/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590063533432" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590492656590">
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590620081079">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590492656590" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590620081079" />
     <state x="2301" y="580" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1590616174233">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

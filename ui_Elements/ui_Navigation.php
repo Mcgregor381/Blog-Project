@@ -1,6 +1,6 @@
 <?php
 
-
+//todo fix sidnav slide/hide
 function generateNavigation(){
 
     $html ="";
@@ -102,9 +102,9 @@ function generateNavigation(){
                                 live Projects<i class="fa fa-angle-down rotate-icon"></i></a>
                                 <div class="collapsible-body">
                                     <ul>
-                                        <li><a href="#" class="waves-effect">Blog</a>
+                                        <li><a href="www.tiny-project.com" class="waves-effect">Blog</a>
                                         </li>
-                                        <li><a href="#" class="waves-effect">eve-app</a>
+                                        <li><a href="www.eve.tiny-project.com" class="waves-effect">eve-app</a>
                                         </li>
                                     </ul>
                                 </div>

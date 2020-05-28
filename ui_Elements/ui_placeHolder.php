@@ -5,7 +5,7 @@ function generatePlaceHolder(){
     return <<<htmlPage
 <body>
     <!--Post Card-->
-    <div class="card" style="padding: 25px">
+    <div class="card" style="margin: 25px">
         <!--Post Header-->
         <div class="card-header">
         
