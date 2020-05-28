@@ -11,8 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="Integrating: Peppered passwords to enable account registration and login">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpinfo.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,14 +96,7 @@
       <workItem from="1590055282949" duration="26352000" />
       <workItem from="1590402102460" duration="21001000" />
       <workItem from="1590515482065" duration="18075000" />
-      <workItem from="1590668137141" duration="6828000" />
-    </task>
-    <task id="LOCAL-00024" summary="test : echo">
-      <created>1589983094916</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1589983094916</updated>
+      <workItem from="1590668137141" duration="7187000" />
     </task>
     <task id="LOCAL-00025" summary="test : echo">
       <created>1589983181166</created>
@@ -442,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590685884146</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Integrating: Peppered passwords to enable account registration and login">
+      <created>1590687470286</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1590687470286</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,6 +533,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1397" y="381" key="#Options/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589874565254" />
+    <state x="1427" y="343" key="#PHP" timestamp="1590687526828">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1427" y="343" key="#PHP/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590687526828" />
     <state x="1096" y="541" key="#SQL_Dialects" timestamp="1590674706019">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -601,10 +604,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1486" y="397" key="VCS.ChangeListViewerDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590685945300" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590685888395">
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590687569651">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590685888395" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590687569651" />
     <state x="2301" y="580" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1590616174233">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
