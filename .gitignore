@@ -1,0 +1,5 @@
+# Ignore phpinfo file
+phpinfo.php
+
+# Ignore all text files
+*.txt
