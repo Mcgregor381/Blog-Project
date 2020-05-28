@@ -1,8 +1,7 @@
 <?php
 
 
-namespace required\database_required;
-
+require_once "db_config.php";
 
 class db_tools{
 
@@ -44,55 +43,55 @@ class db_tools{
         echo("{\"error\":\"Login failed\"}");
         exit(0);
     }
+}
 
 
-    function validateLogin($email, $pwd = '') {
-        global $pepper, $db;
-        require 'PepperedPasswords.php';
-        # Initialize errors array.
-        $errors = array();
+function validateLogin($email, $pwd = '') {
+    global $pepper, $db;
+    require 'PepperedPasswords.php';
+    # Initialize errors array.
+    $errors = array();
 
-        $stmt = $db->prepare("SELECT user_id, first_name, last_name, pass FROM user_info WHERE email=?");
-        # Check email field.
-        if (!isset($email)) {
-            $errors[] = 'Enter your email address.';
-        } else {
-            $email = trim($email);
-        }
-
-        # Check password field.
-        if (!isset($pwd)) {
-            $errors[] = 'Enter your password.';
-        } else {
-            $pwd = trim($pwd);
-        }
-        //todo install pepper passwords
-        //$hasher = new PepperedPasswords($pepper);
-
-        # On success retrieve user_id, first_name, and last name from 'user' database.
-        if (empty($errors)) {
-            $stmt->bind_param("s", $email);
-            if (!$stmt->execute()) {
-                $errors[] = "Execute failed: (" . $stmt->errno . ") " . $stmt->error;
-            }
-
-            $result = $stmt->get_result();
-
-            if($result->num_rows === 1) {
-                $row = $result->fetch_assoc();
-                $checked = $hasher->verify($pwd, $row['pass']);
-                if($checked){
-                    return array(true, $row);
-                }
-            }
-
-            /* free results */
-            $stmt->free_result();
-
-            /* close statement */
-            $stmt->close();
-        }
-        # On failure retrieve error message/s.
-        return array(false, $errors);
+    $stmt = $db->prepare("SELECT user_id, first_name, last_name, pass FROM user_info WHERE email=?");
+    # Check email field.
+    if (!isset($email)) {
+        $errors[] = 'Enter your email address.';
+    } else {
+        $email = trim($email);
     }
+
+    # Check password field.
+    if (!isset($pwd)) {
+        $errors[] = 'Enter your password.';
+    } else {
+        $pwd = trim($pwd);
+    }
+    //todo install pepper passwords
+    //$hasher = new PepperedPasswords($pepper);
+
+    # On success retrieve user_id, first_name, and last name from 'user' database.
+    if (empty($errors)) {
+        $stmt->bind_param("s", $email);
+        if (!$stmt->execute()) {
+            $errors[] = "Execute failed: (" . $stmt->errno . ") " . $stmt->error;
+        }
+
+        $result = $stmt->get_result();
+
+        if($result->num_rows === 1) {
+            $row = $result->fetch_assoc();
+            $checked = $hasher->verify($pwd, $row['pass']);
+            if($checked){
+                return array(true, $row);
+            }
+        }
+
+        /* free results */
+        $stmt->free_result();
+
+        /* close statement */
+        $stmt->close();
+    }
+    # On failure retrieve error message/s.
+    return array(false, $errors);
 }

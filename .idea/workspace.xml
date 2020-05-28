@@ -10,13 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="Update: added login modal &amp; post template &#10;started: DB intargration connection scussesflul.">
-      <change afterPath="$PROJECT_DIR$/required/database_required/PepperedPasswords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/required/database_required/db_tools.php" afterDir="false" />
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="Integrating: Peppered passwords to enable account registration">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/inner_ui_Elaments/modal_Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/inner_ui_Elaments/modal_Login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_placeHolder.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_placeHolder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/database_required/db_tools.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/database_required/db_tools.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,14 +88,7 @@
       <workItem from="1590055282949" duration="26352000" />
       <workItem from="1590402102460" duration="21001000" />
       <workItem from="1590515482065" duration="18075000" />
-      <workItem from="1590668137141" duration="1815000" />
-    </task>
-    <task id="LOCAL-00022" summary="test : echo">
-      <created>1589982998661</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1589982998661</updated>
+      <workItem from="1590668137141" duration="5495000" />
     </task>
     <task id="LOCAL-00023" summary="test : echo">
       <created>1589983037272</created>
@@ -436,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590619154118</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Integrating: Peppered passwords to enable account registration">
+      <created>1590674668985</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1590674668985</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +508,8 @@
     <MESSAGE value="restart: complete redesign of init interface with place-holder post now designed" />
     <MESSAGE value="Update added login modal &amp; post template" />
     <MESSAGE value="Update: added login modal &amp; post template &#10;started: DB intargration connection scussesflul." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update: added login modal &amp; post template &#10;started: DB intargration connection scussesflul." />
+    <MESSAGE value="Integrating: Peppered passwords to enable account registration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integrating: Peppered passwords to enable account registration" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1312" y="358" key="#Deployment" timestamp="1590403061994">
@@ -526,6 +524,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1397" y="381" key="#Options/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589874565254" />
+    <state x="1096" y="541" key="#SQL_Dialects" timestamp="1590674706019">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1096" y="541" key="#SQL_Dialects/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590674706019" />
     <state x="1296" y="345" key="#SSH_Configurations" timestamp="1589790927686">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -569,10 +571,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1221" y="345" key="SettingsEditor/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590063533432" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590620081079">
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590682764965">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590620081079" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590682764965" />
     <state x="2301" y="580" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1590616174233">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
