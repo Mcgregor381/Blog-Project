@@ -10,7 +10,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="removed phpinfo" />
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="removed phpinfo">
+      <change afterPath="$PROJECT_DIR$/ui_Elements/inner_ui_Elements/modal_Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_Elements/inner_ui_Elements/modal_contact_us.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_Elements/inner_ui_Elaments/inner_UI_Carosel.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/inner_ui_Elements/inner_UI_Carosel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_Elements/inner_ui_Elaments/modal_Login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_BlogPost.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_BlogPost.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_ElementList.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_ElementList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,11 +58,12 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bubble" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ui_Elements" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Proggrming\PHPStorm\Blog-Project\ui_Elements" />
       <recent name="F:\Proggrming\PHPStorm\Blog-Project\cms" />
       <recent name="F:\Proggrming\PHPStorm\Blog-Project\cms\ui\navagtion_options" />
       <recent name="F:\Proggrming\PHPStorm\Blog-Project\img" />
@@ -94,14 +104,7 @@
       <workItem from="1590055282949" duration="26352000" />
       <workItem from="1590402102460" duration="21001000" />
       <workItem from="1590515482065" duration="18075000" />
-      <workItem from="1590668137141" duration="7257000" />
-    </task>
-    <task id="LOCAL-00027" summary="test : echo">
-      <created>1589983257698</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1589983257698</updated>
+      <workItem from="1590668137141" duration="13942000" />
     </task>
     <task id="LOCAL-00028" summary="test : echo">
       <created>1589983335135</created>
@@ -439,11 +442,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590687854902</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="removed phpinfo">
+      <created>1590687945882</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1590687945882</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -488,6 +501,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Project" />
     </ignored-roots>
@@ -517,6 +531,7 @@
     <MESSAGE value="Integrating: Peppered passwords to enable account registration and login" />
     <MESSAGE value="removed phpinfo" />
     <option name="LAST_COMMIT_MESSAGE" value="removed phpinfo" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1312" y="358" key="#Deployment" timestamp="1590687885621">
@@ -589,10 +604,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1499" y="423" key="NewPhpClassDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590674512668" />
-    <state x="1554" y="623" key="NewPhpFileDialog" timestamp="1590672679817">
+    <state x="1554" y="623" key="NewPhpFileDialog" timestamp="1590708467242">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590672679817" />
+    <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590708467242" />
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790643742" />
     <state x="1221" y="345" key="SettingsEditor" timestamp="1590063533432">
       <screen x="0" y="0" width="3440" height="1400" />
@@ -602,10 +617,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1486" y="397" key="VCS.ChangeListViewerDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590685945300" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590687861561">
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1590687959021">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590687861561" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590687959021" />
     <state x="2301" y="580" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1590616174233">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

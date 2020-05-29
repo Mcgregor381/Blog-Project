@@ -15,6 +15,9 @@ function generateNavigation(){
     $placeHolder ="";
     //todo page swapping
     $placeHolder .= generatePlaceHolder();
+    $contactUs ="";
+    $contactUs .=generate_Contact_Form();
+
 
     return <<<htmlPage
     <html lang="en">
@@ -25,7 +28,7 @@ function generateNavigation(){
         <header>
         
             <!--Navbar-->
-            <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar double-nav">
+            <nav class="navbar navbar-expand-lg fixed-top scrolling-navbar double-nav">
         
                 <!-- SideNav slide-out button -->
                 <div class="float-left">
@@ -44,7 +47,7 @@ function generateNavigation(){
                     <li class="nav-item">
                         <a class="nav-link">
                             <i class="fa fa-envelope"></i>
-                            <span class="clearfix d-none d-sm-inline-block">Contact</span>
+                            <span class="clearfix d-none d-sm-inline-block" data-toggle="modal" data-target="#modalContactForm">Contact us</span>
                         </a>
                     </li>
                     <li class="nav-item">
@@ -59,15 +62,12 @@ function generateNavigation(){
                             <i class="fa fa-user"></i>
                             <span class="clearfix d-none d-sm-inline-block">Account</span>
                         </a>
+                        
+                         <!--Todo implement login  -->
                         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="#">Login</a>
+                            <a class="dropdown-item" data-toggle="modal" data-target="#modalLRForm">LogIn/Register</a>
                         </div>
                     </li>
-                    <!--Todo implement login  -->
-                    <!--Todo implement if users log in change to log out button  -->
-                            <div class="text-center">
-                              <a href="" class="btn btn-default btn-rounded mb-4" data-toggle="modal" data-target="#modalLoginForm">Login</a>
-                            </div>
                 </ul>
         
             </nav>
@@ -77,7 +77,8 @@ function generateNavigation(){
             <div id="slide-out" class="side-nav navbar-dark fixed sn-bg-4">
                 <ul class="custom-scrollbar">
                     <!-- Logo -->
-                    <li class="logo-sn waves-effect">
+                    <li class="logo-sn waves-effect"> 
+                    
                         <div class=" text-center">
                             <a href="#" class="pl-0">
                                 <img src="../img/Placeholeder/SVG/PlaceHolder-v1-smallBanner.svg" class="" alt="logo img" style="max-height: 40px; max-width: 200px">
@@ -176,6 +177,8 @@ function generateNavigation(){
                 </div>
             </main>
             
+            <!-- collections of modals-->
+            $contactUs
             $loginModal
         </body>
 </html>

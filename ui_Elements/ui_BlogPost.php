@@ -1,5 +1,5 @@
 <?php
-
+//todo itarate through all posts by user X deciding each post "type" depending on number of imgs that are linked to each post
 
 function generateBlogPost()
 {
