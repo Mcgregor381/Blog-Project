@@ -11,14 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="removed phpinfo">
-      <change afterPath="$PROJECT_DIR$/ui_Elements/inner_ui_Elements/modal_Login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui_Elements/inner_ui_Elements/modal_contact_us.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_Elements/actions/action_login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/inner_ui_Elaments/inner_UI_Carosel.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/inner_ui_Elements/inner_UI_Carosel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/inner_ui_Elaments/modal_Login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_BlogPost.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_BlogPost.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_ElementList.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_ElementList.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +99,7 @@
       <workItem from="1590402102460" duration="21001000" />
       <workItem from="1590515482065" duration="18075000" />
       <workItem from="1590668137141" duration="13942000" />
+      <workItem from="1590738424546" duration="753000" />
     </task>
     <task id="LOCAL-00028" summary="test : echo">
       <created>1589983335135</created>
@@ -600,14 +595,14 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="196" height="457" key="HiddenNamespacesPopup/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590615426146" />
-    <state x="1499" y="423" key="NewPhpClassDialog" timestamp="1590674512668">
+    <state x="1499" y="423" key="NewPhpClassDialog" timestamp="1590745027350">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1499" y="423" key="NewPhpClassDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590674512668" />
-    <state x="1554" y="623" key="NewPhpFileDialog" timestamp="1590708467242">
+    <state x="1499" y="423" key="NewPhpClassDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590745027350" />
+    <state x="1554" y="623" key="NewPhpFileDialog" timestamp="1590745037240">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590708467242" />
+    <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590745037240" />
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790643742" />
     <state x="1221" y="345" key="SettingsEditor" timestamp="1590063533432">
       <screen x="0" y="0" width="3440" height="1400" />
