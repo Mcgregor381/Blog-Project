@@ -10,9 +10,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="removed phpinfo">
-      <change afterPath="$PROJECT_DIR$/ui_Elements/actions/action_login.php" afterDir="false" />
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="enabling phpmailer: first attempt">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/mainTemplate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/required/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Blog-Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Blog-Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/65b96ab0-6fed-478a-8061-4c76d00c30d3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/65b96ab0-6fed-478a-8061-4c76d00c30d3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/database_config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/email/action_email_mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/email/action_email_mailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/email/budget_email.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/email/email_at_8.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/html_config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/html_required/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/html_required/scripts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_Elements/actions/action_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/actions/action_login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_placeHolder.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_placeHolder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,23 +67,23 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ui_Elements" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html" />
     <property name="settings.editor.selected.configurable" value="web.server" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Proggrming\PHPStorm\Blog-Project\ui_Elements" />
-      <recent name="F:\Proggrming\PHPStorm\Blog-Project\cms" />
-      <recent name="F:\Proggrming\PHPStorm\Blog-Project\cms\ui\navagtion_options" />
-      <recent name="F:\Proggrming\PHPStorm\Blog-Project\img" />
-      <recent name="F:\Proggrming\PHPStorm\Blog-Project" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Proggrming\PHPStorm\Blog-Project\ui_Elements\inner_ui_Elaments" />
       <recent name="F:\Proggrming\PHPStorm\Blog-Project\required" />
+      <recent name="F:\Proggrming\PHPStorm\Blog-Project\ui_Elements\inner_ui_Elaments" />
       <recent name="F:\Proggrming\PHPStorm\Blog-Project\required\database_required" />
       <recent name="F:\Proggrming\PHPStorm\Blog-Project\required\html_required" />
       <recent name="F:\Proggrming\PHPStorm\Blog-Project\cms\ui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Proggrming\PHPStorm\Blog-Project\html" />
+      <recent name="F:\Proggrming\PHPStorm\Blog-Project\required" />
+      <recent name="F:\Proggrming\PHPStorm\Blog-Project\ui_Elements" />
+      <recent name="F:\Proggrming\PHPStorm\Blog-Project\cms" />
+      <recent name="F:\Proggrming\PHPStorm\Blog-Project\cms\ui\navagtion_options" />
     </key>
   </component>
   <component name="RunManager">
@@ -99,14 +114,8 @@
       <workItem from="1590402102460" duration="21001000" />
       <workItem from="1590515482065" duration="18075000" />
       <workItem from="1590668137141" duration="13942000" />
-      <workItem from="1590738424546" duration="753000" />
-    </task>
-    <task id="LOCAL-00028" summary="test : echo">
-      <created>1589983335135</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1589983335135</updated>
+      <workItem from="1590738424546" duration="5449000" />
+      <workItem from="1590876755685" duration="5488000" />
     </task>
     <task id="LOCAL-00029" summary="test : echo">
       <created>1589983362310</created>
@@ -444,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590687945882</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="enabling phpmailer: first attempt">
+      <created>1590745205041</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1590745205042</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,7 +516,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Project" />
     </ignored-roots>
-    <MESSAGE value="MDBootStrap-int" />
     <MESSAGE value="Default Navigation added" />
     <MESSAGE value="Default Header added" />
     <MESSAGE value="init" />
@@ -525,7 +540,8 @@
     <MESSAGE value="Integrating: Peppered passwords to enable account registration" />
     <MESSAGE value="Integrating: Peppered passwords to enable account registration and login" />
     <MESSAGE value="removed phpinfo" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed phpinfo" />
+    <MESSAGE value="enabling phpmailer: first attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="enabling phpmailer: first attempt" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -558,10 +574,10 @@
     </state>
     <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590617018730" />
     <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790784256" />
-    <state x="1450" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589972653879">
+    <state x="1450" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590791689051">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1450" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589972653879" />
+    <state x="1450" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590791689051" />
     <state x="92" y="92" width="3256" height="1216" key="DirDiffDialog" timestamp="1590264584961">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -599,10 +615,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1499" y="423" key="NewPhpClassDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590745027350" />
-    <state x="1554" y="623" key="NewPhpFileDialog" timestamp="1590745037240">
+    <state x="1554" y="623" key="NewPhpFileDialog" timestamp="1590790542255">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590745037240" />
+    <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590790542255" />
     <state x="1554" y="623" key="NewPhpFileDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790643742" />
     <state x="1221" y="345" key="SettingsEditor" timestamp="1590063533432">
       <screen x="0" y="0" width="3440" height="1400" />
@@ -624,6 +640,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2284" y="591" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590616285332" />
+    <state x="943" y="404" width="1655" height="594" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1590790224338">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="943" y="404" width="1655" height="594" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590790224338" />
     <state x="1545" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1590444820600">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

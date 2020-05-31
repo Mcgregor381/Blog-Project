@@ -169,10 +169,19 @@ function generateNavigation(){
         </header>
         <!--Main Navigation-->
             <main>
-                <div class="container-fluid justify-content-center" style="padding-top: 10%;padding-bottom: 10%"> 
+                <div class="container-fluid justify-content-center" style="margin-top: -75px; padding-bottom: 25px;"> 
                     
                     $placeHolder
-                    
+                    $placeHolder
+                    $placeHolder
+                    $placeHolder                  
+                    $placeHolder
+                    $placeHolder
+                    $placeHolder
+                    $placeHolder
+                    $placeHolder
+                    $placeHolder
+                    $placeHolder
                     $placeHolder
                 </div>
             </main>
