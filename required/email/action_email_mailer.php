@@ -3,7 +3,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 
 require 'vendor/autoload.php';
-include_once dirname(__DIR__).'/config.php';
+include_once dirname(__DIR__).'/config_file.php';
 
 
 function sendBaseEmail($userEmail, $userName, $emailSubject, $emailBody){

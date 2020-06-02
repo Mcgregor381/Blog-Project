@@ -20,7 +20,15 @@ body {
 }
 
 .slide-out{
-    background-image: url("../img/tempLeftBanner.jpg");
+    background-image: url("../img/codeBlock.JPG");
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 table.dataTable thead .sorting:after,

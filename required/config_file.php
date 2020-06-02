@@ -10,7 +10,6 @@ $pepper = hex2bin('012345679ABCDEF012345679ABCDEF012345679ABCDEF012345679ABCDEF'
 require "html_required/header.php";
 require "html_required/scripts.php";
 
-require 'database_required';
 require 'database_required/db_tools.php';
 require "email/action_email_mailer.php";
 

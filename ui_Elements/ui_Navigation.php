@@ -1,23 +1,12 @@
 <?php
 
 //todo fix sidnav slide/hide
-function generateNavigation(){
-
-    //$html ="";
-
-    //$html .= generateSingleImageBlogPost();
-
+function generate_Navigation($conternt){
     $loginModal ="";
     //todo implment login function
     $loginModal .= generate_LoginModal();
-
-
-    $placeHolder ="";
-    //todo implment full blog post
-    $placeHolder .= generatePlaceHolder();
     $contactUs ="";
     $contactUs .=generate_Contact_Form();
-
 
     $html = <<<htmlPage
     <html lang="en">
@@ -169,11 +158,8 @@ function generateNavigation(){
         </header>
         <!--Main Navigation-->
             <main>
-                <div class="container-fluid justify-content-center" style="padding-top: 10%;padding-bottom: 10%"> 
-                    
-                    $placeHolder
-                    
-                    $placeHolder
+                <div class="container-fluid justify-content-center" style="margin-bottom: 50px;"> 
+                    $conternt
                 </div>
             </main>
             
@@ -185,3 +171,6 @@ function generateNavigation(){
 htmlPage;
     return $html;
 }
+
+
+?>

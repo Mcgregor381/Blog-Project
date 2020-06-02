@@ -57,11 +57,11 @@ if ($result->num_rows >= 1) {
                                 $mail->Host = 'smtp.gmail.com';
                                 $mail->Port = 587;
                                 $mail->SMTPAuth = true;
-                                $mail->Username = 'bubblehome.care@gmail.com';
-                                $mail->Password = 'TeamBubble6!';
-                                $mail->setFrom('bubblehome.care@gmail.com', 'Bubble');
+                                $mail->Username = 'null';
+                                $mail->Password = 'null!';
+                                $mail->setFrom('null@gmail.com', 'Bubble');
                                 $mail->addAddress($email, $first_name);
-                                $mail->Subject = 'Device Still On';
+                                $mail->Subject = 'null';//todo grab post info
                                 $mail->isHTML(true);
                                 $mail->AddEmbeddedImage('img/favicon.png', 'logo');
                 
