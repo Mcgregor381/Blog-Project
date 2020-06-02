@@ -3,23 +3,23 @@
 //todo fix sidnav slide/hide
 function generateNavigation(){
 
-    $html ="";
-    //todo page swapping
-    $html .= generateSingleImageBlogPost();
+    //$html ="";
+
+    //$html .= generateSingleImageBlogPost();
 
     $loginModal ="";
-    //todo page swapping
+    //todo implment login function
     $loginModal .= generate_LoginModal();
 
 
     $placeHolder ="";
-    //todo page swapping
+    //todo implment full blog post
     $placeHolder .= generatePlaceHolder();
     $contactUs ="";
     $contactUs .=generate_Contact_Form();
 
 
-    return <<<htmlPage
+    $html = <<<htmlPage
     <html lang="en">
     
         <body class="fixed-sn light-blue-skin">
@@ -81,7 +81,7 @@ function generateNavigation(){
                     
                         <div class=" text-center">
                             <a href="#" class="pl-0">
-                                <img src="../img/Placeholeder/SVG/PlaceHolder-v1-smallBanner.svg" class="" alt="logo img" style="max-height: 40px; max-width: 200px">
+                                <img src="../img/Placeholeder/PNG/PlaceHolder-v1-smallBanner.png" class="" alt="logo img" style="max-height: 40px; max-width: 200px">
                             </a>
                         </div>
                     </li>
@@ -183,4 +183,5 @@ function generateNavigation(){
         </body>
 </html>
 htmlPage;
+    return $html;
 }

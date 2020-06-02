@@ -105,7 +105,5 @@ function generate_LoginModal(){
 </div>
 <!--Modal: Login / Register Form-->
 
-
 htmlPage;
 }
-?>
