@@ -53,7 +53,7 @@ function generate_Content(){
         default:
             $x=0;
             while($x<5){
-                $html .= generate_BlogPost();
+                $html .= generate_BlogPost_Testing();
                 $x++;
             }
 

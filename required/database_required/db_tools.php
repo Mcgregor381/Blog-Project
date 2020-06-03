@@ -1,9 +1,6 @@
 <?php
 
-
-require_once "db_config.php";
-
-class db_tools{
+require "db_config.php";
 
     function loginTool($userEmail,$userPassword){
 
@@ -43,7 +40,7 @@ class db_tools{
         echo("{\"error\":\"Login failed\"}");
         exit(0);
     }
-}
+
 
 
 function validateLogin($email, $pwd = '') {

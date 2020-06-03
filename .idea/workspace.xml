@@ -25,20 +25,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="adding pepped paswords and starting login and registration form functions">
-      <change afterPath="$PROJECT_DIR$/ui_Elements/content_Blog_Posts.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/65b96ab0-6fed-478a-8061-4c76d00c30d3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/65b96ab0-6fed-478a-8061-4c76d00c30d3.xml" afterDir="false" />
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="improved post layout and reactive&#10;removed unrequired files">
+      <change afterPath="$PROJECT_DIR$/img/codeBlock.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/required/config_file.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/config_file.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/required/email/action_email_mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/email/action_email_mailer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/required/email/device_on_email.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/email/device_on_email.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/required/email/email_at_8.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_BlogPost.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_ElementList.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_ElementList.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_placeHolder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/database_config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/database_required/db_connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/database_required/db_connect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/required/database_required/db_tools.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/database_required/db_tools.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_Elements/content_Blog_Posts.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/content_Blog_Posts.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +114,10 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SQLScriptSettings">
+    <option name="outputLayout" value="File per object with order.groovy" />
+    <option name="outputPath" value="F:\Proggrming\PHPStorm\Blog-Project\required" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -138,14 +137,7 @@
       <workItem from="1590515482065" duration="18075000" />
       <workItem from="1590668137141" duration="13942000" />
       <workItem from="1590738424546" duration="753000" />
-      <workItem from="1591016355817" duration="21919000" />
-    </task>
-    <task id="LOCAL-00029" summary="test : echo">
-      <created>1589983362310</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1589983362310</updated>
+      <workItem from="1591016355817" duration="35377000" />
     </task>
     <task id="LOCAL-00030" summary="test : echo">
       <created>1589984635329</created>
@@ -483,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591094716913</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="improved post layout and reactive&#10;removed unrequired files">
+      <created>1591140872795</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1591140872795</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +550,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Project" />
     </ignored-roots>
-    <MESSAGE value="Default Navigation added" />
     <MESSAGE value="Default Header added" />
     <MESSAGE value="init" />
     <MESSAGE value="init :file for desinging how a post shows" />
@@ -576,7 +574,8 @@
     <MESSAGE value="Integrating: Peppered passwords to enable account registration and login" />
     <MESSAGE value="removed phpinfo" />
     <MESSAGE value="adding pepped paswords and starting login and registration form functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding pepped paswords and starting login and registration form functions" />
+    <MESSAGE value="improved post layout and reactive&#10;removed unrequired files" />
+    <option name="LAST_COMMIT_MESSAGE" value="improved post layout and reactive&#10;removed unrequired files" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -604,10 +603,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1296" y="345" key="#SSH_Configurations/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1589790927686" />
-    <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590617018730">
+    <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591212222485">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590617018730" />
+    <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1591212222485" />
     <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1589790784256" />
     <state x="1450" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591114138332">
       <screen x="0" y="0" width="3440" height="1400" />
@@ -617,10 +616,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="92" y="92" width="3256" height="1216" key="DirDiffDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590264584961" />
-    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1590672528459">
+    <state x="1500" y="441" key="FileChooserDialogImpl" timestamp="1591212315824">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590672528459" />
+    <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1591212315824" />
     <state x="1500" y="441" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1589790699642" />
     <state x="1568" y="598" key="Github.ShareDialog" timestamp="1589790816557">
       <screen x="0" y="0" width="3440" height="1400" />
@@ -663,10 +662,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1486" y="397" key="VCS.ChangeListViewerDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590685945300" />
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1591094720567">
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2" timestamp="1591140879082">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1591094720567" />
+    <state x="1312" y="433" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1591140879082" />
     <state x="2301" y="580" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1590616174233">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
@@ -675,10 +674,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2284" y="591" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1590616285332" />
-    <state x="1578" y="438" width="1033" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1591140608393">
+    <state x="1578" y="438" width="1033" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1591212059275">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="1578" y="438" width="1033" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1591140608393" />
+    <state x="1578" y="438" width="1033" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1591212059275" />
     <state x="1545" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1590444820600">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

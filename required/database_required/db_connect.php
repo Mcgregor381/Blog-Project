@@ -1,6 +1,11 @@
 <?php
 require_once "db_connect.php";
-//todo moveconfig to other file
+
+//todo remove db config
+$servername = "localhodt";
+$database = "myblog";
+$username = "root";
+$password = "Password";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password,$database);
