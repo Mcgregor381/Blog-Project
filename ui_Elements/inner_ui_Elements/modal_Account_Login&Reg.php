@@ -16,19 +16,19 @@ function generate_LoginModal(){
         <!-- Nav tabs -->
         <ul class="nav nav-tabs md-tabs tabs-2 light-blue darken-3" role="tablist">
           <li class="nav-item">
-            <a class="nav-link active" data-toggle="tab" href="#panel7" role="tab"><i class="fas fa-user mr-1"></i>
+            <a class="nav-link active" data-toggle="tab" href="#tab_login" role="tab"><i class="fas fa-user mr-1"></i>
               Login</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#panel8" role="tab"><i class="fas fa-user-plus mr-1"></i>
+            <a class="nav-link" data-toggle="tab" href="#tab_register" role="tab"><i class="fas fa-user-plus mr-1"></i>
               Register</a>
           </li>
         </ul>
 
         <!-- Tab panels -->
         <div class="tab-content">
-          <!--Panel 7-->
-          <div class="tab-pane fade in show active" id="panel7" role="tabpanel">
+          <!--Panel tab_login-->
+          <div class="tab-pane fade in show active" id="tab_login" role="tabpanel">
 
             <!--Body-->
             <div class="modal-body mb-1">
@@ -57,29 +57,66 @@ function generate_LoginModal(){
             </div>
 
           </div>
-          <!--/.Panel 7-->
+          <!--/.Panel tab_login-->
 
-          <!--Panel 8-->
-          <div class="tab-pane fade" id="panel8" role="tabpanel">
+          <!--Panel tab_register-->
+          <div class="tab-pane fade" id="tab_register" role="tabpanel">
 
             <!--Body-->
             <div class="modal-body">
+            <!--e-mail addr-->
               <div class="md-form form-sm mb-5">
                 <i class="fas fa-envelope prefix"></i>
-                <input type="email" id="modalLRInput12" class="form-control form-control-sm validate">
-                <label data-error="wrong" data-success="right" for="modalLRInput12">Your email</label>
+                <label data-error="wrong" data-success="right" for="modalLRInput12">E-mail</label>
+                <input  type="email" 
+                        id="reg_email" 
+                        class="form-control form-control-sm validate"
+                        name="email"
+                        required size="20"
+                        value=""/>               
               </div>
-
+            <!--./e-mail addr-->
+            
+            <!--first name-->
               <div class="md-form form-sm mb-5">
                 <i class="fas fa-lock prefix"></i>
-                <input type="password" id="modalLRInput13" class="form-control form-control-sm validate">
-                <label data-error="wrong" data-success="right" for="modalLRInput13">Your password</label>
+                <label data-error="wrong" data-success="right" for="modalLRInput13">First Name</label>
+                <input  type="password" 
+                        id="reg_firstName" 
+                        class="form-control form-control-sm validate"
+                        name="firstName"
+                        required size="1"
+                        value=""/>
+              </div>
+            <!--./first name--> 
+             
+               <div class="md-form form-sm mb-5">
+                <i class="fas fa-lock prefix"></i>
+                <label data-error="wrong" data-success="right" for="modalLRInput14">Surname  Name</label>
+                <input  type="password"
+                        id="modalLRInput13"     
+                        class="form-control form-control-sm validate"
+                        name="surName"
+                        required size="5"
+                        value=""/>  
+              </div>
+              
+              <div class="md-form form-sm mb-5">
+                <i class="fas fa-lock prefix"></i>
+                <label data-error="wrong" data-success="right" for="modalLRInput15">Password</label>                
+                <input  type="password" 
+                        id="modalLRInput13" 
+                        class="form-control form-control-sm validate">
+
               </div>
 
               <div class="md-form form-sm mb-4">
                 <i class="fas fa-lock prefix"></i>
-                <input type="password" id="modalLRInput14" class="form-control form-control-sm validate">
-                <label data-error="wrong" data-success="right" for="modalLRInput14">Repeat password</label>
+                <label data-error="wrong" data-success="right" for="modalLRInput16">Repeat Password</label>
+                <input  type="password"
+                        id="modalLRInput14" 
+                        class="form-control form-control-sm validate">
+                
               </div>
 
               <div class="text-center form-sm mt-2">
@@ -95,7 +132,7 @@ function generate_LoginModal(){
               <button type="button" class="btn btn-outline-info waves-effect ml-auto" data-dismiss="modal">Close</button>
             </div>
           </div>
-          <!--/.Panel 8-->
+          <!--/.Panel tab_register-->
         </div>
 
       </div>

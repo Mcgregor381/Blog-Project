@@ -1,13 +1,14 @@
 <?php
 
 //CONNECT TO DATABASE BACKEND
-require 'config.php';
-require 'PepperedPasswords.php';
+require 'config_file.php';//sever config
+require 'PepperedPasswords.php';//peppered passwords
 
 //ENSURE REQUEST HAS BEEN DELIVERED OVER POST
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     //INTITALISE ERRORS ARRAY
     $errors = array();
+
     $stmt = $db->prepare("INSERT INTO user_info (email, pass, first_name, last_name, allow_emails) VALUES ( ?, ?, ?, ?, ?)");
 
     //GET VALID EMAIL ADDRESS
@@ -54,7 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $stmt2->execute();
         $result = $stmt2->get_result();
         if ($result->num_rows != 0) {
-            echo("{\"error\":\"Email address already registered. <a href=\\\"../index.php\\\">Login</a>\"}");
+            echo("{\"error\":\"Email address already registered. <a href=\"../index.php\">Login</a>\"}");
             $stmt2->close();
             exit(0);
         }

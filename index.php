@@ -39,7 +39,7 @@ function generate_Content(){
             //$html .= generateLogout();
             break;
         case 'account':
-            //include './ui_Elements/inner_ui_Elements/modal_Login.php';
+            //include './ui_Elements/inner_ui_Elements/modal_Account_Login&Reg.php';
             //$html .= generateAccount();
             break;
         case 'access':

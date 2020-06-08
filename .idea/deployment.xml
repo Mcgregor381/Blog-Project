@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" stopOnFirstError="true" traceLevel="BRIEF" uploadOnCheckin="b2271aea-9cd6-4024-91de-a25beb817632" showNewOnSourceInSync="false">
+  <component name="PublishConfigData" stopOnFirstError="true" traceLevel="BRIEF" uploadOnCheckin="b2271aea-9cd6-4024-91de-a25beb817632" showEqualInSync="true">
     <serverData>
       <paths name="Local-Test">
         <serverdata>
@@ -13,7 +13,7 @@
       <paths name="Local-Test-Blog">
         <serverdata>
           <mappings>
-            <mapping deploy="andrewnas:8802/" local="$PROJECT_DIR$" web="http://andrewnas:8802/" />
+            <mapping deploy="http://andrewnas:8802/" local="$PROJECT_DIR$" web="http://andrewnas:8802/" />
             <mapping deploy="http://andrewnas:8801" local="$PROJECT_DIR$/../eveapp" web="http://andrewnas:8801" />
           </mappings>
         </serverdata>

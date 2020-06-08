@@ -7,5 +7,5 @@ require "ui_Navigation.php";//todo implement: Ajax to swap content
 
 require "ui_footer.php";
 
-require "inner_ui_Elements/modal_Login.php";
+require "inner_ui_Elements/modal_Account_Login&Reg.php";
 require "inner_ui_Elements/modal_contact_us.php";
