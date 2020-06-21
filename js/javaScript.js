@@ -1,9 +1,6 @@
+/*
+* all scripts for blogging.Tiny-Projects.com
+* owner Andrew McGregor
+*/
 
-
-$(document).ready(function() {
-    // SideNav Button Initialization
-    $(".button-collapse").sideNav();
-    // SideNav Scrollbar Initialization
-    let sideNavScrollbar = document.querySelector('.custom-scrollbar');
-    let ps = new PerfectScrollbar(sideNavScrollbar);
-});
+//TODO Refactor all coustom js to this file.

@@ -9,7 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     //INTITALISE ERRORS ARRAY
     $errors = array();
 
-    $stmt = $db->prepare("INSERT INTO user_info (email, pass, first_name, last_name, allow_emails) VALUES ( ?, ?, ?, ?, ?)");
+    $stmt = $conn->prepare("INSERT INTO user_info (email, pass, first_name, last_name, allow_emails) VALUES ( ?, ?, ?, ?, ?)");
 
     //GET VALID EMAIL ADDRESS
     $userEmail = filter_input(INPUT_POST, "email", FILTER_VALIDATE_EMAIL);
@@ -50,7 +50,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     //IF NO ERRORS THROWN SO FAR
     if (empty($errors)) {
         //ENSURE EMAIL ADDRESS ISNT ALREADY REGISTERED.
-        $stmt2 = $db->prepare("SELECT * FROM user_info WHERE email = ?");
+        $stmt2 = $conn->prepare("SELECT * FROM user_info WHERE email = ?");
         $stmt2->bind_param("s", $userEmail);
         $stmt2->execute();
         $result = $stmt2->get_result();

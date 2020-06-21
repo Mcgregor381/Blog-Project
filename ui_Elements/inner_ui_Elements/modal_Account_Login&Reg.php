@@ -80,7 +80,11 @@ function generate_LoginModal(){
             <!--first name-->
               <div class="md-form form-sm mb-5">
                 <i class="fas fa-lock prefix"></i>
-                <label data-error="wrong" data-success="right" for="modalLRInput13">First Name</label>
+                    <label  data-error="wrong"
+                            data-success="right" 
+                            for="modalLRInput13">   First Name
+                    
+                    </label>
                 <input  type="password" 
                         id="reg_firstName" 
                         class="form-control form-control-sm validate"
@@ -94,7 +98,7 @@ function generate_LoginModal(){
                 <i class="fas fa-lock prefix"></i>
                 <label data-error="wrong" data-success="right" for="modalLRInput14">Surname  Name</label>
                 <input  type="password"
-                        id="modalLRInput13"     
+                        id="modalLRInput14"     
                         class="form-control form-control-sm validate"
                         name="surName"
                         required size="5"
@@ -105,7 +109,7 @@ function generate_LoginModal(){
                 <i class="fas fa-lock prefix"></i>
                 <label data-error="wrong" data-success="right" for="modalLRInput15">Password</label>                
                 <input  type="password" 
-                        id="modalLRInput13" 
+                        id="modalLRInput15" 
                         class="form-control form-control-sm validate">
 
               </div>
@@ -114,7 +118,7 @@ function generate_LoginModal(){
                 <i class="fas fa-lock prefix"></i>
                 <label data-error="wrong" data-success="right" for="modalLRInput16">Repeat Password</label>
                 <input  type="password"
-                        id="modalLRInput14" 
+                        id="modalLRInput16" 
                         class="form-control form-control-sm validate">
                 
               </div>

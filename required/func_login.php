@@ -1,6 +1,6 @@
 <?php
 //REQUIRE CONFIG FILE
-require 'config.php';
+require 'config_file.php';//sever config
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
