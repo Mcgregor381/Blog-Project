@@ -7,6 +7,7 @@ function generate_LoginModal(){
 <!--Modal: Login / Register Form-->
 <div class="modal fade" id="modalLRForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog cascading-modal" role="document">
+  
     <!--Content-->
     <div class="modal-content">
 
@@ -67,60 +68,58 @@ function generate_LoginModal(){
             <!--e-mail addr-->
               <div class="md-form form-sm mb-5">
                 <i class="fas fa-envelope prefix"></i>
-                <label data-error="wrong" data-success="right" for="modalLRInput12">E-mail</label>
                 <input  type="email" 
                         id="reg_email" 
                         class="form-control form-control-sm validate"
                         name="email"
                         required size="20"
-                        value=""/>               
+                        value=""/>  
+                <label data-error="wrong" data-success="right" for="modalLRInput12">E-mail</label> 
+                           
               </div>
             <!--./e-mail addr-->
             
             <!--first name-->
-              <div class="md-form form-sm mb-5">
+              <div class="md-form form-sm mb-4">
                 <i class="fas fa-lock prefix"></i>
-                    <label  data-error="wrong"
-                            data-success="right" 
-                            for="modalLRInput13">   First Name
-                    
-                    </label>
                 <input  type="password" 
                         id="reg_firstName" 
                         class="form-control form-control-sm validate"
                         name="firstName"
                         required size="1"
                         value=""/>
+                 <label  data-error="wrong" data-success="right"  for="reg_firstName"> First Name </label>      
               </div>
             <!--./first name--> 
              
                <div class="md-form form-sm mb-5">
                 <i class="fas fa-lock prefix"></i>
-                <label data-error="wrong" data-success="right" for="modalLRInput14">Surname  Name</label>
-                <input  type="password"
+                
+                <input  type="text"
                         id="modalLRInput14"     
                         class="form-control form-control-sm validate"
                         name="surName"
                         required size="5"
                         value=""/>  
+                <label data-error="wrong" data-success="right" for="modalLRInput14">Surname  Name</label>
               </div>
               
               <div class="md-form form-sm mb-5">
                 <i class="fas fa-lock prefix"></i>
-                <label data-error="wrong" data-success="right" for="modalLRInput15">Password</label>                
+            
                 <input  type="password" 
                         id="modalLRInput15" 
-                        class="form-control form-control-sm validate">
-
+                        class="form-control form-control-sm validate"/>
+                <label data-error="wrong" data-success="right" for="modalLRInput15">Password</label>    
               </div>
 
               <div class="md-form form-sm mb-4">
                 <i class="fas fa-lock prefix"></i>
-                <label data-error="wrong" data-success="right" for="modalLRInput16">Repeat Password</label>
                 <input  type="password"
                         id="modalLRInput16" 
-                        class="form-control form-control-sm validate">
-                
+                        class="form-control form-control-sm validate"/>
+                <label data-error="wrong" data-success="right" for="modalLRInput16">Repeat Password</label>   
+                          
               </div>
 
               <div class="text-center form-sm mt-2">
