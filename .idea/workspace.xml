@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="File clean up and minor bug fixes.">
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="Minor bug fixes.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ui_Elements/inner_ui_Elements/modal_Account_Login&amp;Reg.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/inner_ui_Elements/modal_Account_Login&amp;Reg.php" afterDir="false" />
     </list>
@@ -133,13 +133,6 @@
       <workItem from="1590738424546" duration="753000" />
       <workItem from="1591016355817" duration="45664000" />
       <workItem from="1591623559287" duration="5030000" />
-    </task>
-    <task id="LOCAL-00032" summary="testing">
-      <created>1589984834697</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1589984834698</updated>
     </task>
     <task id="LOCAL-00033" summary="?">
       <created>1589985035332</created>
@@ -477,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592773064490</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Minor bug fixes.">
+      <created>1592781764180</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1592781764180</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +545,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Project" />
     </ignored-roots>
-    <MESSAGE value="Temp" />
     <MESSAGE value="typo fix" />
     <MESSAGE value="Fix : navigation display" />
     <MESSAGE value="Fix : typo" />
@@ -570,7 +569,8 @@
     <MESSAGE value="working on adding pdo database calls" />
     <MESSAGE value="Adding : account registration" />
     <MESSAGE value="File clean up and minor bug fixes." />
-    <option name="LAST_COMMIT_MESSAGE" value="File clean up and minor bug fixes." />
+    <MESSAGE value="Minor bug fixes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor bug fixes." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
