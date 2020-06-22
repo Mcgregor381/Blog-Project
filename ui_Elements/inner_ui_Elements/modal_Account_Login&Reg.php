@@ -32,25 +32,26 @@ function generate_LoginModal(){
           <div class="tab-pane fade in show active" id="tab_login" role="tabpanel">
 
             <!--Body-->
-            <div class="modal-body mb-5">
+            <div class="modal-body mb-1">
             
             <!-- E-Mail -->
                 <div class="md-form form-sm mb-5">
                     <i class="fas fa-envelope prefix"></i>
-                    <input type="email" id="Login-Email" class="form-control form-control-sm validate">
-                    <label data-error="wrong" data-success="right" for="Login-Email">Your email</label>
+                    <input type="email" id="login_Email" class="form-control form-control-sm validate"/>
+                    <label data-error="wrong" data-success="right" for="login_Email">Your email</label>
                 </div>
               <!--Password-->
                 <div class="md-form form-sm mb-5">
                     <i class="fas fa-lock prefix"></i>
-                    <input type="password" id="Login-Pass" class="form-control form-control-sm validate">
-                    <label data-error="wrong" data-success="right" for="Login-Pass">Your password</label>
+                    <input type="password" id="login_Pass" class="form-control form-control-sm validate"/>
+                    <label data-error="wrong" data-success="right" for="login_Pass">Your password</label>
                 </div>
                 <!--Login button-->
                 <div class="text-center mt-2">
                     <button class="btn btn-info">Log in <i class="fas fa-sign-in ml-1"></i></button>
                 </div>
-            </div>S
+            </div>
+            
             <!--Login Footer-->
             <div class="modal-footer">
                 <div class="options text-center text-md-right mt-1">
@@ -59,6 +60,7 @@ function generate_LoginModal(){
                 </div>
                 <button type="button" class="btn btn-outline-info waves-effect ml-auto" data-dismiss="modal">Close</button>
             </div>
+            <!--./Login Footer-->
             
           </div>
           <!--/.Panel tab_login-->
@@ -72,39 +74,39 @@ function generate_LoginModal(){
             <div class="md-form form-sm pb-3">
                 <i class="fas fa-envelope prefix"></i>
                 <input  type="email" id="reg_email" class="form-control form-control-sm validate" name="email" required size="20" value=""/>  
-                <label data-error="wrong" data-success="right" for="modalLRInput12">E-mail</label> 
+                <label data-error="wrong" data-success="right" for="reg_email">E-mail</label> 
             </div>
             <!--./e-mail addr-->
             
             <!--first name-->
             <div class="md-form pb-3">
                 <i class="fas fa-lock prefix"></i>
-                <input  type="text" id="reg_firstName"  class="form-control validate" name="firstName" required size="1" value=""/>
-                <label  data-error="wrong" data-success="right"  for="reg_firstName"> First Name </label>      
+                <input  type="text" id="reg_FirstName"  class="form-control validate" name="firstName" required size="1" value=""/>
+                <label  data-error="wrong" data-success="right"  for="reg_FirstName"> First Name </label>      
             </div>
             <!--./first name-->
             
             <!--Sur Name--> 
             <div class="md-form mb-5">
                 <i class="fas fa-lock prefix"></i>
-                <input  type="text" id="modalLRInput14" class="form-control validate" name="surName" required size="5" value=""/>  
-                <label data-error="wrong" data-success="right" for="modalLRInput14">Surname  Name</label>
+                <input  type="text" id="reg_SurName" class="form-control validate" name="surName" required size="5" value=""/>  
+                <label data-error="wrong" data-success="right" for="reg_SurName">Surname  Name</label>
             </div>
             <!--./Sur Name-->
             
 
             <div class="md-form mb-5">
                 <i class="fas fa-lock prefix"></i>
-                <input  type="password" id="Form-pass1" class="form-control validate"/>
-                <label  data-error="wrong" data-success="right" for="Form-pass1">Password</label>    
+                <input  type="password" id="reg_pass1" class="form-control validate"/>
+                <label  data-error="wrong" data-success="right" for="reg_pass1">Password</label>    
             </div>
             <!--./Password entry 1-->
             
             <!--Password entry 2-->
             <div class="md-form form-sm pb-3">
                 <i class="fas fa-lock prefix"></i>
-                <input  type="password" id="Form-pass2" class="form-control validate"/>
-                <label  data-error="wrong" data-success="right" for="Form-pass2">Repeat Password</label>   
+                <input  type="password" id="reg_pass2" class="form-control validate">
+                <label  data-error="wrong" data-success="right" for="reg_pass2">Repeat Password</label>   
             </div>
             <!--./Password entry 2-->
             

@@ -8,9 +8,20 @@ function generate_Navigation($conternt){
     $contactUs ="";
     $contactUs .=generate_Contact_Form();
 
+
+    //Header
+    //todo consider addign dynamic title tags is blog.tiny-project/{userName}?
+    $headerContent='';
+    $headerContent .=generateHeaderContent();
+
+    //Footer
+    $footerContent='';
+    $footerContent .=generateFooterContent();
+
     $html = <<<htmlPage
+
     <html lang="en">
-    
+    $headerContent
         <body class="fixed-sn light-blue-skin">
         
         <!--Main Navigation-->
@@ -167,6 +178,10 @@ function generate_Navigation($conternt){
             $contactUs
             $loginModal
         </body>
+        <footer>
+            $footerContent
+        <!--todo add footer-->
+        </footer>
 </html>
 htmlPage;
     return $html;

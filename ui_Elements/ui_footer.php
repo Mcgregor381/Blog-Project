@@ -1,7 +1,6 @@
 <?php
-echo '
-<html lang="en">
-    <body>
+function generateFooterContent(){
+    return <<<htmlPage
         <footer class="page-footer font-small fixed-bottom">
         
             <!-- Source -->
@@ -15,6 +14,6 @@ echo '
             </div>
             <!-- Copyright -->
         </footer>
-    </body>
-</html>    
-';
+htmlPage;
+
+}

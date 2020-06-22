@@ -8,7 +8,6 @@ $pepper = hex2bin('012345679ABCDEF012345679ABCDEF012345679ABCDEF012345679ABCDEF'
 
 //REQUIRE VARIOUS DB CONNECTION COMPONENTS
 require "html_required/header.php";
-require "html_required/scripts.php";
 require 'database_required/db_tools.php';
 
 //3ed part addons

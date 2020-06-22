@@ -7,8 +7,6 @@ require "ui_Elements/ui_ElementList.php";
 $html = generate_Navigation(generate_Content());
 echo $html;
 
-require "ui_Elements/ui_footer.php";
-
 
 function generate_Content(){
     //GET URL ACTION
