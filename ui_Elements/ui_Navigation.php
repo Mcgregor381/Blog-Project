@@ -1,9 +1,11 @@
 <?php
 
-//todo fix sidnav slide/hide
+//todo fix side navigation slider/hide function
 function generate_Navigation($conternt){
+//todo add beter importing system/method for modals
+
+    //todo impalement login and registration function
     $loginModal ="";
-    //todo implment login function
     $loginModal .= generate_LoginModal();
     $contactUs ="";
     $contactUs .=generate_Contact_Form();
@@ -15,6 +17,7 @@ function generate_Navigation($conternt){
     $headerContent .=generateHeaderContent();
 
     //Footer
+    //todo look in to adding cvontact details for a users blog if enabled.
     $footerContent='';
     $footerContent .=generateFooterContent();
 

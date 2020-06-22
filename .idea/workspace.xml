@@ -25,15 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="adding comments to login and reg form">
+    <list default="true" id="c0f77ee6-9638-4059-9d51-b6ac47ed5090" name="Default Changelist" comment="Adding: todo items &#10;Fixing: minor bugs on login and reg forms">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/required/config_file.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/config_file.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/required/html_required/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/required/html_required/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/required/html_required/scripts.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/inner_ui_Elements/modal_Account_Login&amp;Reg.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/inner_ui_Elements/modal_Account_Login&amp;Reg.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_Navigation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui_Elements/ui_footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/ui_Elements/ui_footer.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,13 +133,6 @@
       <workItem from="1590738424546" duration="753000" />
       <workItem from="1591016355817" duration="45664000" />
       <workItem from="1591623559287" duration="5030000" />
-    </task>
-    <task id="LOCAL-00034" summary="?">
-      <created>1589985039174</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1589985039174</updated>
     </task>
     <task id="LOCAL-00035" summary="testing">
       <created>1589985136435</created>
@@ -483,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592845718357</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Adding: todo items &#10;Fixing: minor bugs on login and reg forms">
+      <created>1592852596272</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1592852596272</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +545,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../Project" />
     </ignored-roots>
-    <MESSAGE value="Fix : navigation display" />
     <MESSAGE value="Fix : typo" />
     <MESSAGE value="set-up : improveing file sorting and elament structure" />
     <MESSAGE value="test : echo" />
@@ -576,7 +569,8 @@
     <MESSAGE value="File clean up and minor bug fixes." />
     <MESSAGE value="Minor bug fixes." />
     <MESSAGE value="adding comments to login and reg form" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding comments to login and reg form" />
+    <MESSAGE value="Adding: todo items &#10;Fixing: minor bugs on login and reg forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding: todo items &#10;Fixing: minor bugs on login and reg forms" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
